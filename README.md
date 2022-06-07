@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="sig.svg" alt="logo" width=500/>
+  <img src="sig.svg" alt="logo" width=400/>
 </p>
