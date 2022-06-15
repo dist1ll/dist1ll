@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://www.alic.dev">
-    <img src="sig.svg" alt="logo" width=400 />
+    <img src="3896663.jpg" alt="logo" width=2000 />
   </a>
 </p>
